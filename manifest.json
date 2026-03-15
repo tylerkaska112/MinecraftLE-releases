@@ -14,12 +14,12 @@
         "changelog": "...",
         "isLatest": true,
         "parts": [
-          {
-            "label": "Base Game",
-            "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/game-v1.0.0-base.zip",
-            "sha256": "6ae6daf7b57556e5eab68fd212d0cae3886a16e13ffb9a35b03f88d0a5863ebf",
-            "sizeMB": 468.6
-          },
+         {
+  "label": "Base Game",
+  "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/game-v1.0.1-base.zip",
+  "sha256": "9ee9d1c8be072bf993b3f0aec6e6dfdf584c06abbfed03c73a9d981993f4e654",
+  "sizeMB": 428
+},
           {
             "label": "DLC Packs",
             "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/game-v1.0.0-dlc.zip",
