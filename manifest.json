@@ -1,5 +1,10 @@
 {
     "schemaVersion": 2,
+    "launcher": {
+      "version": "1.0.0",
+      "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/MinecraftLE-Launcher-Setup-1.0.0.exe",
+      "sha256": "c9f06e07b85fe7c2feb4931d169aebdb742e881aa1df68344c1eb1b0363495bc"
+    },
     "versions": [
       {
         "id": "v1.0.0",
