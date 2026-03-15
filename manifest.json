@@ -1,79 +1,79 @@
 {
-    "schemaVersion": 2,
-    "launcher": {
-      "version": "1.0.3",
-      "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/MinecraftLE%20Launcher%20Setup%201.0.3.exe",
-      "sha256": "917b87a9a26199d5a7c329304fb7ecc645acdfc6d5e2c0ffc57c5477508edddb"
-    },
-    "versions": [
+  "schemaVersion": 2,
+  "launcher": {
+    "version": "1.0.3",
+    "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/MinecraftLE%20Launcher%20Setup%201.0.3.exe",
+    "sha256": "917b87a9a26199d5a7c329304fb7ecc645acdfc6d5e2c0ffc57c5477508edddb"
+  },
+  "versions": [
+    {
+      "id": "v1.0.2",
+      "name": "MinecraftLE v1.0.2",
+      "releaseDate": "2026-03-15",
+      "totalSizeMB": 427.8,
+      "changelog": "Merged with SmartCMD github.",
+      "isLatest": true,
+      "parts": [
         {
-  "id": "v1.0.2",
-  "name": "MinecraftLE v1.0.2",
-  "releaseDate": "2026-03-15",
-  "totalSizeMB": 427.8,
-  "changelog": "Merged with SmartCMD github.",
-  "isLatest": true,
-  "parts": [
-    {
-      "label": "Base Game",
-      "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/game-v1.0.2-base.zip",
-      "sha256": "a98980f78bd7072a5699b79a1a5c3f10781b007eed3406134623a16cb84f4c94",
-      "sizeMB": 427.8
+          "label": "Base Game",
+          "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/game-v1.0.2-base.zip",
+          "sha256": "a98980f78bd7072a5699b79a1a5c3f10781b007eed3406134623a16cb84f4c94",
+          "sizeMB": 427.8
+        },
+        {
+          "label": "DLC Packs",
+          "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/game-v1.0.0-dlc.zip",
+          "sha256": "21ef029c7f0b017788ce56780ff297738fae9ff9fbc802f665880a7818b66534",
+          "sizeMB": 574.7,
+          "cached": true
+        }
+      ]
     },
     {
-      "label": "DLC Packs",
-      "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/game-v1.0.0-dlc.zip",
-      "sha256": "21ef029c7f0b017788ce56780ff297738fae9ff9fbc802f665880a7818b66534",
-      "sizeMB": 574.7,
-      "cached": true
+      "id": "v1.0.1",
+      "name": "MinecraftLE v1.0.1",
+      "releaseDate": "2026-03-15",
+      "totalSizeMB": 1002.6,
+      "changelog": "Added full mod support: VeinMiner, Offhand, WAILA, Litematica.",
+      "isLatest": false,
+      "parts": [
+        {
+          "label": "Base Game",
+          "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/game-v1.0.1-base.zip",
+          "sha256": "9ee9d1c8be072bf993b3f0aec6e6dfdf584c06abbfed03c73a9d981993f4e654",
+          "sizeMB": 427.9
+        },
+        {
+          "label": "DLC Packs",
+          "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/game-v1.0.0-dlc.zip",
+          "sha256": "21ef029c7f0b017788ce56780ff297738fae9ff9fbc802f665880a7818b66534",
+          "sizeMB": 574.7,
+          "cached": true
+        }
+      ]
+    },
+    {
+      "id": "v1.0.0",
+      "name": "MinecraftLE v1.0.0",
+      "releaseDate": "2026-03-14",
+      "totalSizeMB": 1043,
+      "changelog": "Initial public release.",
+      "isLatest": false,
+      "parts": [
+        {
+          "label": "Base Game",
+          "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/game-v1.0.0-base.zip",
+          "sha256": "6ae6daf7b57556e5eab68fd212d0cae3886a16e13ffb9a35b03f88d0a5863ebf",
+          "sizeMB": 468.6
+        },
+        {
+          "label": "DLC Packs",
+          "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/game-v1.0.0-dlc.zip",
+          "sha256": "21ef029c7f0b017788ce56780ff297738fae9ff9fbc802f665880a7818b66534",
+          "sizeMB": 574.7,
+          "cached": true
+        }
+      ]
     }
   ]
-},
-      {
-        "id": "v1.0.1",
-        "name": "MinecraftLE v1.0.1",
-        "releaseDate": "2026-03-15",
-        "totalSizeMB": 1002.6,
-        "changelog": "Added full mod support: VeinMiner, Offhand, WAILA, Litematica.",
-        "isLatest": false,
-        "parts": [
-          {
-            "label": "Base Game",
-            "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/game-v1.0.1-base.zip",
-            "sha256": "9ee9d1c8be072bf993b3f0aec6e6dfdf584c06abbfed03c73a9d981993f4e654",
-            "sizeMB": 427.9
-          },
-          {
-            "label": "DLC Packs",
-            "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/game-v1.0.0-dlc.zip",
-            "sha256": "21ef029c7f0b017788ce56780ff297738fae9ff9fbc802f665880a7818b66534",
-            "sizeMB": 574.7,
-            "cached": true
-          }
-        ]
-      },
-      {
-        "id": "v1.0.0",
-        "name": "MinecraftLE v1.0.0",
-        "releaseDate": "2026-03-14",
-        "totalSizeMB": 1043,
-        "changelog": "Initial public release.",
-        "isLatest": false,
-        "parts": [
-          {
-            "label": "Base Game",
-            "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/game-v1.0.0-base.zip",
-            "sha256": "6ae6daf7b57556e5eab68fd212d0cae3886a16e13ffb9a35b03f88d0a5863ebf",
-            "sizeMB": 468.6
-          },
-          {
-            "label": "DLC Packs",
-            "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/game-v1.0.0-dlc.zip",
-            "sha256": "21ef029c7f0b017788ce56780ff297738fae9ff9fbc802f665880a7818b66534",
-            "sizeMB": 574.7,
-            "cached": true
-          }
-        ]
-      }
-    ]
-  }
+}
