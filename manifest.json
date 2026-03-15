@@ -13,13 +13,13 @@
             "label": "Base Game",
             "url":
   "https://github.com/tylerkaska112/MinecraftLE-releases/releases/download/v1.0.0/game-v1.0.0-base.zip",
-            "sha256": "2689bbf9111070e5392122fbf66fd4b23952fef4ccc511636879fa295839aedd",
+            "sha256": "2689BBF9111070E5392122FBF66FD4B23952FEF4CCC511636879FA295839AEDD",
             "sizeMB": 468.3
           },
           {
             "label": "DLC Packs",
             "url": "https://github.com/tylerkaska112/MinecraftLE-releases/releases/download/v1.0.0/game-v1.0.0-dlc.zip",
-            "sha256": "1219381bafb2c70e04d676eeee523949c4da75d0c04d2909b3a0f17147a0d12a",
+            "sha256": "1219381BAFB2C70E04D676EEEE523949C4DA75D0C04D2909B3A0F17147A0D12A",
             "sizeMB": 574.7
           }
         ]
