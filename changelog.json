@@ -1,0 +1,21 @@
+[
+    {
+      "version": "v1.2.0",
+      "date": "April 1, 2026",
+      "sections": [
+        {
+          "title": "New Features",
+          "items": [
+            "Some new thing",
+            "Another new thing"
+          ]
+        },
+        {
+          "title": "Bug Fixes",
+          "items": [
+            "Fixed something"
+          ]
+        }
+      ]
+    }
+  ]
