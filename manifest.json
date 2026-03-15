@@ -7,6 +7,29 @@
   },
   "versions": [
     {
+      "id": "v1.0.3",
+      "name": "MinecraftLE v1.0.3",
+      "releaseDate": "2026-03-15",
+      "totalSizeMB": 428,
+      "changelog": "added screenshots.",
+      "isLatest": true,
+      "parts": [
+        {
+          "label": "Base Game",
+          "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/game-v1.0.3-base.zip",
+          "sha256": "82ceba0ba5e2c2bbc812d5794f6d574e8932f2f75f1712bb585fbc6186ebe382",
+          "sizeMB": 428
+        },
+        {
+          "label": "DLC Packs",
+          "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/game-v1.0.0-dlc.zip",
+          "sha256": "21ef029c7f0b017788ce56780ff297738fae9ff9fbc802f665880a7818b66534",
+          "sizeMB": 574.7,
+          "cached": true
+        }
+      ]
+    },
+    {
       "id": "v1.0.2",
       "name": "MinecraftLE v1.0.2",
       "releaseDate": "2026-03-15",
