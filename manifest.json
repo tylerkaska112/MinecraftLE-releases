@@ -1,9 +1,9 @@
 {
     "schemaVersion": 2,
     "launcher": {
-      "version": "1.0.2",
-      "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/MinecraftLE%20Launcher%20Setup%201.0.2.exe",
-      "sha256": "8a1216b17155623e6ba76639c6bad99a88dd56049e89b502f67b67dac76c5ca1"
+      "version": "1.0.3",
+      "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/MinecraftLE%20Launcher%20Setup%201.0.3.exe",
+      "sha256": "917b87a9a26199d5a7c329304fb7ecc645acdfc6d5e2c0ffc57c5477508edddb"
     },
     "versions": [
       {
