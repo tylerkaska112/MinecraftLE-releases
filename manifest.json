@@ -1,22 +1,27 @@
 {
-  "id": "v1.0.0",
-  "name": "MinecraftLE v1.0.0",
-  "releaseDate": "2026-03-14",
-  "totalSizeMB": 1043,
-  "changelog": "...",
-  "isLatest": true,
-  "parts": [
-    {
-      "label": "Base Game",
-      "url": "https://github.com/tylerkaska112/MinecraftLE-releases/releases/download/v1.0.0/game-v1.0.0-base.zip",
-      "sha256": "6ae6daf7b57556e5eab68fd212d0cae3886a16e13ffb9a35b03f88d0a5863ebf",
-      "sizeMB": 468.6
-    },
-    {
-      "label": "DLC Packs",
-      "url": "https://github.com/tylerkaska112/MinecraftLE-releases/releases/download/v1.0.0/game-v1.0.0-dlc.zip",
-      "sha256": "21ef029c7f0b017788ce56780ff297738fae9ff9fbc802f665880a7818b66534",
-      "sizeMB": 574.7
-    }
-  ]
-}
+    "schemaVersion": 2,
+    "versions": [
+      {
+        "id": "v1.0.0",
+        "name": "MinecraftLE v1.0.0",
+        "releaseDate": "2026-03-14",
+        "totalSizeMB": 1043,
+        "changelog": "...",
+        "isLatest": true,
+        "parts": [
+          {
+            "label": "Base Game",
+            "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/game-v1.0.0-base.zip",
+            "sha256": "6ae6daf7b57556e5eab68fd212d0cae3886a16e13ffb9a35b03f88d0a5863ebf",
+            "sizeMB": 468.6
+          },
+          {
+            "label": "DLC Packs",
+            "url": "https://pub-a58288d504694c0ebd347df6337d841a.r2.dev/game-v1.0.0-dlc.zip",
+            "sha256": "21ef029c7f0b017788ce56780ff297738fae9ff9fbc802f665880a7818b66534",
+            "sizeMB": 574.7
+          }
+        ]
+      }
+    ]
+  }
